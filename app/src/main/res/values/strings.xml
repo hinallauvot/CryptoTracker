@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CryptoTracker</string>
+    <string name="curr_name">Bitcoin</string>
+    <string name="curr_symbol">BTC</string>
+    <string name="usd_price">usd_price</string>
+    <string name="percent_change_1h">1_hr</string>
+    <string name="percent_change_24h">24_hr</string>
+    <string name="percent_change_7d">7_days</string>
+    <string name="rank">1</string>
+    <string name="no_favorites_items">No Favorites</string>
+    <string name="no_favorites_msg">Long press on item to add to favorites.</string>
+    <string name="favorites_remove_msg">Long press on item to remove from favorites.</string>
+</resources>
